@@ -1,1 +1,1 @@
-# Przykyklad
+# Przykład
